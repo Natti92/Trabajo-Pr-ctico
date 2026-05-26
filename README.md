@@ -4,7 +4,7 @@
 
 *Escenario elegido: Análisis de ventas de una pequeña empresa.
 
-*Dataset utilizado: <script src="https://gist.github.com/khanusama20/ee33c2869dd5cf3cebdf020be1ca43f6.js"></script>
+*Dataset utilizado:https://gist.github.com/khanusama20/ee33c2869dd5cf3cebdf020be1ca43f6#file-sales_sample_2024-csv
 
 
 Se busca desarrollar un análisis estadístico reproducible y estructurado dentro del equipo de trabajo.
