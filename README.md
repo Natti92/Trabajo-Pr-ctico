@@ -8,7 +8,7 @@
 
 
 Se busca desarrollar un análisis estadístico reproducible y estructurado dentro del equipo de trabajo.
-Organizando la información en Carpetas como : 
+Organizando la información en Carpetas como: 
 /scripts (Contiene el código correspondiente al programa que se va a utilizar)
 /datos (Contiene la información de los productos vendidos, cantidades, fecha de venta, etc)
 /resultados: (Contiene los gráficos y resultados del trabajo finalizado)
